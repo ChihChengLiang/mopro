@@ -38,7 +38,7 @@ Create and initialize a project:
 
 ```sh
 # Create a working directory
-mkdir ~/my-zk-app && cd my-zk-app
+mkdir my-zk-app && cd my-zk-app
 
 # Initialize a project
 mopro init --platforms ios android
